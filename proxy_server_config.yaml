@@ -7,7 +7,7 @@ model_list:
 
 litellm_settings:
   drop_params: True
-  max_budget: 100 
+  max_budget: 800021 
   budget_duration: 30d
 
 general_settings: 
